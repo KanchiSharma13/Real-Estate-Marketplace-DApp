@@ -29,3 +29,8 @@ In a separate terminal execute:
 
 ### 7. Start frontend
 `$ npm run start`
+
+## Contributors:
+1) [Kanchi Sharma](https://github.com/KanchiSharma13)
+2) Tanishka Kasal
+3) Ritika Kuwera

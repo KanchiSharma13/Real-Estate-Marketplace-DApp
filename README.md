@@ -1,4 +1,4 @@
-# Real Estate NFT DApp
+# Real Estate Marketplace DApp
 
 ## Technology Stack & Tools
 

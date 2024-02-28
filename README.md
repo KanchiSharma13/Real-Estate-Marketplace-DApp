@@ -32,5 +32,5 @@ In a separate terminal execute:
 
 ## Contributors:
 1) [Kanchi Sharma](https://github.com/KanchiSharma13)
-2) Tanishka Kasal
+2) [Tanishka Kasal](https://github.com/tanishkaa19)
 3) Ritika Kuwera
